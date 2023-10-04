@@ -36,10 +36,8 @@ public class User implements Serializable {
 	Role role; 
 //Test
 //test
-<<<<<<< HEAD
-=======
 //add
->>>>>>> user-management
+//git
 	
 	public User() {	}
 
